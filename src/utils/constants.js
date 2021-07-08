@@ -16,6 +16,12 @@ export const links = [
     text: 'products',
     url: '/products',
   },
+  {
+    id: 4,
+    text: 'Our Team',
+    url: '/ourteam',
+  },
+
 ]
 
 export const services = [

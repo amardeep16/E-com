@@ -12,6 +12,7 @@ import {
   Products,
   PrivateRoute,
   AuthWrapper,
+  OurTeam,
 } from './pages'
 
 
@@ -27,6 +28,9 @@ function App() {
           </Route>
           <Route exact path='/about'>
             <About />
+          </Route>
+          <Route exact path='/ourteam'>
+            <OurTeam />
           </Route>
           <Route exact path='/cart'>
             <Cart />
