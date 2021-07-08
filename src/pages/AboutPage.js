@@ -15,12 +15,7 @@ const AboutPage = () => {
             <div className='underline'></div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam
-            quaerat, modi doloremque necessitatibus eum dolor nesciunt delectus,
-            voluptate blanditiis, obcaecati beatae ab aut ipsa consequuntur
-            tempora cumque. Ut quo enim vero odio minus nostrum eveniet,
-            doloribus veritatis dolorem unde ipsum, voluptatibus totam.
-            Explicabo, quas libero! Laborum incidunt minima consequatur ratione?
+          We strongly believe that ideas have no hierarchy, we embrace the diversity of thoughts that people bring in & that's how we make
           </p>
         </article>
       </Wrapper>
