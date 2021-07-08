@@ -13,8 +13,8 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure
-          quasi odit tenetur unde officiis repudiandae quod deserunt quia eum?
+         Lightning Deals Existing Offers From Today Only  Hurry Up!!
+         place the order more than 1500.00 and get  10% off..
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now
