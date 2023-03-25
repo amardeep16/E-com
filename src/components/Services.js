@@ -12,9 +12,9 @@ const Services = () => {
             built only for you
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-            quisquam saepe id reiciendis sunt, repudiandae libero amet rem quia
-            quod?
+          The company itself is a very successful company. And
+            anyone is often rejecting it, rejecting the free matter because
+            what?
           </p>
         </article>
         <div className='services-center'>
