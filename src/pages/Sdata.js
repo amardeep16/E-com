@@ -17,7 +17,7 @@ const Sdata = [
 
     {
         imgsrc: cto,
-        title: "Urushabh Deshmukh (CTO)",
+        title: "Vrushabh Deshmukh (CTO)",
     }, 
 
     {
